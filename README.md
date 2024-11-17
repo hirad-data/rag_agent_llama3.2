@@ -18,7 +18,7 @@ How to start?
 ```pip install -r requirements.txt```
 
 3- Install and start Qdrant vector database locally:  
-```docker pull qdrant/qdrant``` 
+```docker pull qdrant/qdrant```   
 ```docker run -p 6333:6333 qdrant/qdrant```
 
 4- Install Ollama and pull Llama 3.2:  
