@@ -11,7 +11,7 @@ This application implements a Retrieval-Augmented Generation (RAG) system using 
 How to start?
 
 1- Clone the GitHub repository:  
-git clone https://github.com/hirad-data/rag_agent_llama3.2.git
+```git clone https://github.com/hirad-data/rag_agent_llama3.2.git```
 
 
 2- Install the required dependencies:  
